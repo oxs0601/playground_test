@@ -1,6 +1,6 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-import apple_music_python
+import applemusicpy
 
 # Spotify API credentials
 spotify_client_id = "your_client_id"
